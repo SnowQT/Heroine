@@ -15,3 +15,10 @@ The recipe look like that :
   <li>After he have to cook this morphine-base to at a specific temperature and time and he can now make a Heroine !</li>
 </ol>
 If the player fail any part of this recipe he get injured.
+<br >
+Items needed : 
+<ul>
+  <li>Codeine</li>
+  <li>laboratory equipment</li>
+  <li>Heroine</li>
+</ul>
